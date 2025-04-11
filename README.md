@@ -18,7 +18,7 @@ No advanced setup needed! Just:
 🚀 How to Run
 
 1. Download or clone the repository:
-   git clone https://github.com/username/security-tips-interactive.git
+   git clone https://github.com/is89r/security-tips-interactive.git
 2. Open the index.html file in your browser.
 3. Browse and enjoy the interactive security tips!
 
